@@ -1,5 +1,7 @@
 # Homo Digitalis Curricula Service
-Curricula Service for our Homo Digitalis.
+Curricula Service for our Homo Digitalis
+
+This package represents one possibility to provide training data for [homo digitalis](https://www.npmjs.com/package/homo-digitalis)
 
 ## Usage Example
 Please check my executable specifications / documentation [here](https://github.com/homo-digitalis/homo-digitalis-curricula-service/blob/master/src/curricula-service.spec.ts).

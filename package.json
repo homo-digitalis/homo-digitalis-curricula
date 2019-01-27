@@ -1,6 +1,6 @@
 {
   "name": "homo-digitalis-curricula-service",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Curricula Provider for Homo Digitalis",
   "main": "./dist/index.js",
   "typings": "./dist/index.js",
@@ -16,10 +16,11 @@
   },
   "keywords": [
     "Homo Digitalis Curricula Service",
-    "Homo Digitalis Curricula"
+    "Homo Digitalis Curricula",
+    "Homo Digitalis Education"
   ],
-  "author": "Michael Spengler",
-  "license": "MIT",
+  "author": "homo-digitalis@gmx.de",
+  "license": "GNU GPL",
   "husky": {
     "hooks": {
       "pre-commit": "npm run tslint && npm run test:cov"
