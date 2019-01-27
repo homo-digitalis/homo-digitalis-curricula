@@ -1,7 +1,7 @@
 # Homo Digitalis Curricula Service
-Curricula Service for our Homo Digitalis
+Hi I'm [Homo Digitalis](https://www.npmjs.com/package/homo-digitalis)
 
-This package represents one possibility to provide training data for [homo digitalis](https://www.npmjs.com/package/homo-digitalis)
+This package represents one way for me to get some data to learn from.
 
 ## Usage Example
 Please check my executable specifications / documentation [here](https://github.com/homo-digitalis/homo-digitalis-curricula-service/blob/master/src/curricula-service.spec.ts).

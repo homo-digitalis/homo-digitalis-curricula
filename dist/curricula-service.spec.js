@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const curricula_service_1 = require("./curricula-service");
-describe("HelloWorldProvider", () => {
+describe("CurriculaService", () => {
     it("should provide curriculum by id", async () => {
         const curriculaService = new curricula_service_1.CurriculaService();
         const exampleIntents = await curriculaService.provideCurriculumByID("exampleMap");

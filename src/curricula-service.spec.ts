@@ -1,7 +1,7 @@
 import { IIntent } from "nlp-trainer"
 import { CurriculaService } from "./curricula-service"
 
-describe("HelloWorldProvider", () => {
+describe("CurriculaService", () => {
 
     it("should provide curriculum by id", async () => {
         const curriculaService: CurriculaService = new CurriculaService()
